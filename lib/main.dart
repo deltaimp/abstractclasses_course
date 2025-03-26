@@ -22,6 +22,7 @@ class Cat extends CanRun with CanWalk{
     // : implement run
     print("hello");
     print(" dio");
+    print ("gesù");
   } // will inheritance from that, posso ereditare solo da uno
   // con with posso portare classes senza limiti
   // devo implementare run()
