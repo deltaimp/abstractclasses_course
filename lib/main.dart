@@ -19,7 +19,9 @@ mixin class CanWalk{
 class Cat extends CanRun with CanWalk{
   @override // meta tag --> this run function is overriding
   void run() {
-    // TODO: implement run
+    // : implement run
+    print("hello");
+    print(" dio");
   } // will inheritance from that, posso ereditare solo da uno
   // con with posso portare classes senza limiti
   // devo implementare run()
