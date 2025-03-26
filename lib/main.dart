@@ -17,7 +17,7 @@ mixin class CanWalk{
 
 }
 class Cat extends CanRun with CanWalk{
-  @override // meta tag --> this run function is overriding 
+  @override // meta tag --> this run function is overriding
   void run() {
     // TODO: implement run
   } // will inheritance from that, posso ereditare solo da uno
@@ -26,7 +26,7 @@ class Cat extends CanRun with CanWalk{
   // sto estendendo CanRun
 
 
-
+//ciaoooo
 
 
 }
